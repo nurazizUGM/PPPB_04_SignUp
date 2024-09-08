@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="fullname">Fullname</string>
+    <string name="do_you_have_an_account">Do you have an account?</string>
+    <string name="login">Login</string>
+</resources>
